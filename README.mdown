@@ -1,0 +1,24 @@
+#Project 5: Udacity
+## Neighborhood Map
+
+### Installation
+Download the project and open the index.html. Run local server is preffered.
+
+### Desciption
+This project is developed by Richard Shen (沈小寒). It lists several landmarks of shanghai by google maps. User can get the brief introductions of these landmarks by clicking the map markers. Ajax is used to get the landmarks from flickrs.
+
+
+### Known issue
+The info window may be showed wrongly as adjacent landmark's if the markers is too closed. 
+
+### Resources
+
+[Google Maps API](https://developers.google.com/maps/?hl=en)
+
+[Knockout JS](http://knockoutjs.com/index.html)
+
+[Flickr API](https://www.flickr.com/services/api/)
+
+[Front awesome](http://fontawesome.io/)
+
+[Noun Project](https://thenounproject.com/)
